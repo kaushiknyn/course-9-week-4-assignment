@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627215711701.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "45212ABE",
+    "lastKnownWriteTime" : 1627225915,
+    "last_content_update" : 1627225915795,
+    "path" : "D:/Users/kaushik.sivasankaran/Desktop/R/Course 9/Week 4 Assignment/course-9-week-4-assignment/Course-9-Week-4-Assignment/server.R",
+    "project_path" : "Course-9-Week-4-Assignment/server.R",
+    "properties" : {
+        "cursorPosition" : "71,19",
+        "scrollLine" : "57"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
